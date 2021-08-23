@@ -1,0 +1,1906 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://acegiftsplus.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://acegiftsplus.ca/collections/giftsunder25.atom"/>
+  <title>Ace Gifts Plus</title>
+  <updated>2021-07-14T16:33:56-04:00</updated>
+  <author>
+    <name>Ace Gifts Plus</name>
+  </author>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6824493088961</id>
+    <published>2021-07-14T16:33:56-04:00</published>
+    <updated>2021-07-14T16:33:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/cubagold-man"/>
+    <title>Cuba Gold For Man</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/819_521d81cd-4549-4c76-a8f1-50a5395062aa.jpg?v=1626296632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            2.30 - 38.95
+            <a href="https://acegiftsplus.ca/products/cubagold-man">(28 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Cuba Gold | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Cuba Gold M 35Ml Boxed(RET)</title>
+      <s:price currency="CAD">15.45</s:price>
+      <s:sku>CUBM-35B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Cuba Gold M 35Ml Boxed(AGP1)</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku>CUBM-35B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Cuba Gold M 35Ml Boxed(AGP2)</title>
+      <s:price currency="CAD">3.59</s:price>
+      <s:sku>CUBM-35B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Cuba Gold M 35Ml Boxed(AGP3)</title>
+      <s:price currency="CAD">2.30</s:price>
+      <s:sku>CUBM-35B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Mega Set - Cuba Gold M 4pc Blockbuster 4pc Set (w/ 100ml + AfterShave + ShowerGel + 35ml Bonus)(RET)</title>
+      <s:price currency="CAD">30.95</s:price>
+      <s:sku>CUBAMB4M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Mega Set - Cuba Gold M 4pc Blockbuster 4pc Set (w/ 100ml + AfterShave + ShowerGel + 35ml Bonus)(AGP1)</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>CUBAMB4M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Mega Set - Cuba Gold M 4pc Blockbuster 4pc Set (w/ 100ml + AfterShave + ShowerGel + 35ml Bonus)(AGP2)</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>CUBAMB4M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Mega Set - Cuba Gold M 4pc Blockbuster 4pc Set (w/ 100ml + AfterShave + ShowerGel + 35ml Bonus)(AGP3)</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>CUBAMB4M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Bucket Set - Cuba Gold M  5Pc(EDT 100ml + A/S + Deo 200ml + EDT 35ml) Gift Set in Wooden Bucket(RET)</title>
+      <s:price currency="CAD">35.95</s:price>
+      <s:sku>CUBGLDM5PCM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Bucket Set - Cuba Gold M  5Pc(EDT 100ml + A/S + Deo 200ml + EDT 35ml) Gift Set in Wooden Bucket(AGP1)</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>CUBGLDM5PCM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Bucket Set - Cuba Gold M  5Pc(EDT 100ml + A/S + Deo 200ml + EDT 35ml) Gift Set in Wooden Bucket(AGP2)</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>CUBGLDM5PCM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Bucket Set - Cuba Gold M  5Pc(EDT 100ml + A/S + Deo 200ml + EDT 35ml) Gift Set in Wooden Bucket(AGP3)</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>CUBGLDM5PCM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Cuba Gold M 100Ml Boxed(RET)</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>CUBM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Cuba Gold M 100Ml Boxed(AGP1)</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>CUBM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Cuba Gold M 100Ml Boxed(AGP2)</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>CUBM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Cuba Gold M 100Ml Boxed(AGP3)</title>
+      <s:price currency="CAD">4.20</s:price>
+      <s:sku>CUBM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Tester - Cuba M 100ml Spray Tester(RET)</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>CUBM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Tester - Cuba M 100ml Spray Tester(AGP1)</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>CUBM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Tester - Cuba M 100ml Spray Tester(AGP2)</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>CUBM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Tester - Cuba M 100ml Spray Tester(AGP3)</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>CUBM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Gift Set - Cuba Gold M 100Ml 3Pc Gift Set (Open Window)(RET)</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>CUBM3M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Gift Set - Cuba Gold M 100Ml 3Pc Gift Set (Open Window)(AGP1)</title>
+      <s:price currency="CAD">14.50</s:price>
+      <s:sku>CUBM3M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Gift Set - Cuba Gold M 100Ml 3Pc Gift Set (Open Window)(AGP2)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>CUBM3M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Gift Set - Cuba Gold M 100Ml 3Pc Gift Set (Open Window)(AGP3)</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>CUBM3M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Super Blockbuster Set - Cuba Must Have M 100ml Gift Set (with AS, DEO, SG + 35ml Bonus)(RET)</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku>CUBM5M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Super Blockbuster Set - Cuba Must Have M 100ml Gift Set (with AS, DEO, SG + 35ml Bonus)(AGP1)</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>CUBM5M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Super Blockbuster Set - Cuba Must Have M 100ml Gift Set (with AS, DEO, SG + 35ml Bonus)(AGP2)</title>
+      <s:price currency="CAD">19.49</s:price>
+      <s:sku>CUBM5M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Super Blockbuster Set - Cuba Must Have M 100ml Gift Set (with AS, DEO, SG + 35ml Bonus)(AGP3)</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>CUBM5M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6756606247105</id>
+    <published>2021-06-09T16:00:33-04:00</published>
+    <updated>2021-06-09T16:00:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/mustang50yedition-woman"/>
+    <title>Mustang 50Y Edition For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>FordMustang</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/Mustang50Y-woman.jpg?v=1624065735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FordMustang<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            1.50 - 18.95
+            <a href="https://acegiftsplus.ca/products/mustang50yedition-woman">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Mustang 50Y Edition | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756606247105</id>
+      <title>Tester - Mustang  50Y Edition W 100ml Tester(RET)</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>MUS50YW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756606247105</id>
+      <title>Tester - Mustang  50Y Edition W 100ml Tester(AGP1)</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>MUS50YW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756606247105</id>
+      <title>Tester - Mustang  50Y Edition W 100ml Tester(AGP2)</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>MUS50YW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756606247105</id>
+      <title>Tester - Mustang  50Y Edition W 100ml Tester(AGP3)</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>MUS50YW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6756606083265</id>
+    <published>2021-06-09T16:00:32-04:00</published>
+    <updated>2021-06-09T16:00:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/mustang50yedition-man"/>
+    <title>Mustang 50Y Edition For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>FordMustang</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/Mustang50Y-man.jpg?v=1624065710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FordMustang<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            1.50 - 18.00
+            <a href="https://acegiftsplus.ca/products/mustang50yedition-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Mustang 50Y Edition | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756606083265</id>
+      <title>Tester - Mustang 50Y Edition M 100ml Tester(RET)</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>MUS50YM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756606083265</id>
+      <title>Tester - Mustang 50Y Edition M 100ml Tester(AGP1)</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>MUS50YM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756606083265</id>
+      <title>Tester - Mustang 50Y Edition M 100ml Tester(AGP2)</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>MUS50YM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756606083265</id>
+      <title>Tester - Mustang 50Y Edition M 100ml Tester(AGP3)</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>MUS50YM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6756603822273</id>
+    <published>2021-06-09T15:59:48-04:00</published>
+    <updated>2021-06-09T15:59:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/marvelspiderman-man"/>
+    <title>Marvel Spiderman For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Marvel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/MarvelSpiderMan-man.jpg?v=1624065459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marvel<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            1.50 - 18.95
+            <a href="https://acegiftsplus.ca/products/marvelspiderman-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Marvel Spiderman | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756603822273</id>
+      <title>Tester - Marvel Spiderman M 100ml Tester(RET)</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>MARSPIM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756603822273</id>
+      <title>Tester - Marvel Spiderman M 100ml Tester(AGP1)</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>MARSPIM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756603822273</id>
+      <title>Tester - Marvel Spiderman M 100ml Tester(AGP2)</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>MARSPIM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756603822273</id>
+      <title>Tester - Marvel Spiderman M 100ml Tester(AGP3)</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>MARSPIM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6756590747841</id>
+    <published>2021-06-09T15:55:52-04:00</published>
+    <updated>2021-06-09T15:55:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/aubusson-man"/>
+    <title>Aubusson Man For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Aubusson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/Aubusson-man.jpg?v=1625763231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aubusson<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            1.50 - 18.95
+            <a href="https://acegiftsplus.ca/products/aubusson-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Aubusson Man | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756590747841</id>
+      <title>Tester - Aubusson  Man 100ml Tester(RET)</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>AUBM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756590747841</id>
+      <title>Tester - Aubusson  Man 100ml Tester(AGP1)</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>AUBM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756590747841</id>
+      <title>Tester - Aubusson  Man 100ml Tester(AGP2)</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>AUBM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756590747841</id>
+      <title>Tester - Aubusson  Man 100ml Tester(AGP3)</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>AUBM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6756590616769</id>
+    <published>2021-06-09T15:55:50-04:00</published>
+    <updated>2021-06-09T15:55:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/aubussonintense-man"/>
+    <title>Aubusson Intense For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Aubusson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/AubussonIntense-man.jpg?v=1624040532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aubusson<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            1.50 - 18.95
+            <a href="https://acegiftsplus.ca/products/aubussonintense-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Aubusson Intense | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756590616769</id>
+      <title>Tester - Aubusson Intense Man 100ml Tester(RET)</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>AUBIM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756590616769</id>
+      <title>Tester - Aubusson Intense Man 100ml Tester(AGP1)</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>AUBIM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756590616769</id>
+      <title>Tester - Aubusson Intense Man 100ml Tester(AGP2)</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>AUBIM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756590616769</id>
+      <title>Tester - Aubusson Intense Man 100ml Tester(AGP3)</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>AUBIM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6699110957249</id>
+    <published>2021-05-08T17:58:50-04:00</published>
+    <updated>2021-05-08T17:58:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/marvelvenom-man"/>
+    <title>Marvel Venom For Kids</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Marvel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/MarvelVenom-kids.jpg?v=1620836880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marvel<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            4.75 - 24.87
+            <a href="https://acegiftsplus.ca/products/marvelvenom-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Marvel Venom | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6699110957249</id>
+      <title>Marvel Venom EDT M 100ml Boxed(RET)</title>
+      <s:price currency="CAD">24.87</s:price>
+      <s:sku>MARVENOM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6699110957249</id>
+      <title>Marvel Venom EDT M 100ml Boxed(AGP1)</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku>MARVENOM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6699110957249</id>
+      <title>Marvel Venom EDT M 100ml Boxed(AGP2)</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>MARVENOM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6699110957249</id>
+      <title>Marvel Venom EDT M 100ml Boxed(AGP3)</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>MARVENOM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6637341704385</id>
+    <published>2021-04-09T15:03:31-04:00</published>
+    <updated>2021-04-09T15:03:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/brutaftershave-man"/>
+    <title>Brut After Shave For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Brut</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/BrutAfterShave-man.jpg?v=1619098826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brut<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            4.00 - 21.59
+            <a href="https://acegiftsplus.ca/products/brutaftershave-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Brut After Shave | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftershave</s:tag>
+    <s:tag>b2s</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6637341704385</id>
+      <title>After Shave - Brut M 90ml After Shave Spray (Plastic)(RET)</title>
+      <s:price currency="CAD">21.59</s:price>
+      <s:sku>BRUTM-90A</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6637341704385</id>
+      <title>After Shave - Brut M 90ml After Shave Spray (Plastic)(AGP1)</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku>BRUTM-90A</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6637341704385</id>
+      <title>After Shave - Brut M 90ml After Shave Spray (Plastic)(AGP2)</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>BRUTM-90A</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6637341704385</id>
+      <title>After Shave - Brut M 90ml After Shave Spray (Plastic)(AGP3)</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>BRUTM-90A</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6561118683329</id>
+    <published>2021-03-05T18:15:10-05:00</published>
+    <updated>2021-03-05T18:15:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/kokeshitonka-woman"/>
+    <title>Kokeshi Tonka For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Kokeshi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/kokeshiTonka-man.jpg?v=1616443780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kokeshi<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            8.50 - 20.95
+            <a href="https://acegiftsplus.ca/products/kokeshitonka-woman">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Kokeshi Tonka | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6561118683329</id>
+      <title>Tester - Kokeshi Tonka W 100ml Tester (no cap)(RET)</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>KOKTONW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6561118683329</id>
+      <title>Tester - Kokeshi Tonka W 100ml Tester (no cap)(AGP1)</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>KOKTONW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6561118683329</id>
+      <title>Tester - Kokeshi Tonka W 100ml Tester (no cap)(AGP2)</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>KOKTONW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6561118683329</id>
+      <title>Tester - Kokeshi Tonka W 100ml Tester (no cap)(AGP3)</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>KOKTONW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6561118650561</id>
+    <published>2021-03-05T18:15:08-05:00</published>
+    <updated>2021-03-05T18:15:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/kokeshilotus-woman"/>
+    <title>Kokeshi Lotus For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Kokeshi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/kokeshiLotus-woman.jpg?v=1616443328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kokeshi<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            8.50 - 20.95
+            <a href="https://acegiftsplus.ca/products/kokeshilotus-woman">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Kokeshi Lotus | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6561118650561</id>
+      <title>Tester - Kokeshi Lotus W 100ml Tester (no cap)(RET)</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>KOKLOTW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6561118650561</id>
+      <title>Tester - Kokeshi Lotus W 100ml Tester (no cap)(AGP1)</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>KOKLOTW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6561118650561</id>
+      <title>Tester - Kokeshi Lotus W 100ml Tester (no cap)(AGP2)</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>KOKLOTW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6561118650561</id>
+      <title>Tester - Kokeshi Lotus W 100ml Tester (no cap)(AGP3)</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>KOKLOTW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6150150521025</id>
+    <published>2020-12-12T15:16:43-05:00</published>
+    <updated>2020-12-12T15:16:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/sterlingcosmogivesee-man"/>
+    <title>Sterling Cosmo 1 Give &amp; See For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Armaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/CosmoGiveAndSeeNew1EDT100ml-man.jpg?v=1613410910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Armaf<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            1.00 - 25.00
+            <a href="https://acegiftsplus.ca/products/sterlingcosmogivesee-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Sterling Cosmo 1 Give &amp; See | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>armaf</s:tag>
+    <s:tag>b2s</s:tag>
+    <s:tag>bs2</s:tag>
+    <s:tag>canadaday</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>oct</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150150521025</id>
+      <title>Armaf Cosmo 1 Give &amp; See M 100ml Boxed(RET)</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ARMCOSGISSM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150150521025</id>
+      <title>Armaf Cosmo 1 Give &amp; See M 100ml Boxed(AGP1)</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>ARMCOSGISSM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150150521025</id>
+      <title>Armaf Cosmo 1 Give &amp; See M 100ml Boxed(AGP2)</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>ARMCOSGISSM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150150521025</id>
+      <title>Armaf Cosmo 1 Give &amp; See M 100ml Boxed(AGP3)</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>ARMCOSGISSM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4781774766185</id>
+    <published>2020-08-27T20:58:34-04:00</published>
+    <updated>2020-08-27T20:58:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/marvelcaptainamerica-man"/>
+    <title>Marvel Captain America For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Marvel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/MarvelAvengersCaptinAmericaEDT100ml-man.jpg?v=1601773703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marvel<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            4.75 - 24.95
+            <a href="https://acegiftsplus.ca/products/marvelcaptainamerica-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Marvel Captain America | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4781774766185</id>
+      <title>Marvel Captain America M 100ml Boxed(RET)</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>MARCAM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4781774766185</id>
+      <title>Marvel Captain America M 100ml Boxed(AGP1)</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku>MARCAM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4781774766185</id>
+      <title>Marvel Captain America M 100ml Boxed(AGP2)</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>MARCAM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4781774766185</id>
+      <title>Marvel Captain America M 100ml Boxed(AGP3)</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>MARCAM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4521903816809</id>
+    <published>2020-02-13T10:58:29-05:00</published>
+    <updated>2020-02-13T10:58:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/newbrandtheroyalmayfairtwist-man"/>
+    <title>New Brand The Royal (Mayfair Twist) For Man</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/newbrandtheroyal-man.jpg?v=1582733512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            3.25 - 22.95
+            <a href="https://acegiftsplus.ca/products/newbrandtheroyalmayfairtwist-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for New Brand The Royal (Mayfair Twist) Man Cologne | Ace Gifts - Buy Direct and Save. Best wholesale prices<br>
+ </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4521903816809</id>
+      <title>New Brand The Royal (Mayfair Twist) M 100ml Boxed(RET)</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku>NEWBROYM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4521903816809</id>
+      <title>New Brand The Royal (Mayfair Twist) M 100ml Boxed(AGP1)</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>NEWBROYM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4521903816809</id>
+      <title>New Brand The Royal (Mayfair Twist) M 100ml Boxed(AGP2)</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>NEWBROYM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4521903816809</id>
+      <title>New Brand The Royal (Mayfair Twist) M 100ml Boxed(AGP3)</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>NEWBROYM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4521903685737</id>
+    <published>2020-02-13T10:58:27-05:00</published>
+    <updated>2020-02-13T10:58:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/newbrandonlyyoublackgentlemanabsolutetwist-man"/>
+    <title>New Brand Only You Black (Gentleman Absolute Twist) For Man</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/newbrandonlyyoublack-man.jpg?v=1582733466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            3.25 - 22.95
+            <a href="https://acegiftsplus.ca/products/newbrandonlyyoublackgentlemanabsolutetwist-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for New Brand Only You Black (Gentleman Absolute Twist) Man Cologne | Ace Gifts - Buy Direct and Save. Best wholesale prices<br>
+ </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4521903685737</id>
+      <title>New Brand Only You Black (Gentleman Absolute Twist) M 100ml Boxed(RET)</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku>NEWBOYBLAM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4521903685737</id>
+      <title>New Brand Only You Black (Gentleman Absolute Twist) M 100ml Boxed(AGP1)</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>NEWBOYBLAM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4521903685737</id>
+      <title>New Brand Only You Black (Gentleman Absolute Twist) M 100ml Boxed(AGP2)</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>NEWBOYBLAM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4521903685737</id>
+      <title>New Brand Only You Black (Gentleman Absolute Twist) M 100ml Boxed(AGP3)</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>NEWBOYBLAM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4521903423593</id>
+    <published>2020-02-13T10:58:24-05:00</published>
+    <updated>2020-02-13T10:58:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/newbrandheroaventustwist-man"/>
+    <title>New Brand Hero (Spicy Aventus Inspiration) For Man</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/newbrandhero-man.jpg?v=1582733409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            1.00 - 16.00
+            <a href="https://acegiftsplus.ca/products/newbrandheroaventustwist-man">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for New Brand Hero (Aventus Twist) Man Cologne | Ace Gifts - Buy Direct and Save. Best wholesale prices<br>
+ </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4521903423593</id>
+      <title>New Brand Hero (Aventus Twist) M 100ml Boxed(RET)</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>NEWBRHERM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4521903423593</id>
+      <title>Tester - New Brand Hero (Aventus Twist) M 100ml Tester(RET)</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>NEWBHERM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4521903423593</id>
+      <title>Tester - New Brand Hero (Aventus Twist) M 100ml Tester(AGP1)</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>NEWBHERM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4521903423593</id>
+      <title>Tester - New Brand Hero (Aventus Twist) M 100ml Tester(AGP2)</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>NEWBHERM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4521903423593</id>
+      <title>Tester - New Brand Hero (Aventus Twist) M 100ml Tester(AGP3)</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>NEWBHERM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4521903423593</id>
+      <title>New Brand Hero (Aventus Twist) M 100ml Boxed(AGP1)</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>NEWBRHERM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4521903423593</id>
+      <title>New Brand Hero (Aventus Twist) M 100ml Boxed(AGP2)</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>NEWBRHERM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4521903423593</id>
+      <title>New Brand Hero (Aventus Twist) M 100ml Boxed(AGP3)</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>NEWBRHERM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4391817511017</id>
+    <published>2019-11-24T15:11:40-05:00</published>
+    <updated>2019-11-24T15:11:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/cubaprestigeblack-man"/>
+    <title>Cuba Prestige Black (Swiss Army Meets Green Irish Twist) For Man</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/cubaprestigeblack-man.jpg?v=1580417807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            5.00 - 22.99
+            <a href="https://acegiftsplus.ca/products/cubaprestigeblack-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wholesale perfume store. Get wholesale prices in Canada for Cuba Prestige Black ManCologne | Ace Gifts Plus. Toronto's premier perfume store.
+<p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4391817511017</id>
+      <title>Cuba Prestige Black Edition M 90ml Boxed(RET)</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>CUBPRBLM-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4391817511017</id>
+      <title>Cuba Prestige Black Edition M 90ml Boxed(AGP1)</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku>CUBPRBLM-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4391817511017</id>
+      <title>Cuba Prestige Black Edition M 90ml Boxed(AGP2)</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>CUBPRBLM-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4391817511017</id>
+      <title>Cuba Prestige Black Edition M 90ml Boxed(AGP3)</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>CUBPRBLM-90B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4166353682537</id>
+    <published>2019-09-27T17:50:25-04:00</published>
+    <updated>2019-09-27T17:50:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/volcanonewbrand-man"/>
+    <title>Volcano (Terre d&apos; Hermes Twist) by New Brand For Man</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/newbrandvolcano-man.jpg?v=1571506492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            4.00 - 20.95
+            <a href="https://acegiftsplus.ca/products/volcanonewbrand-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume wholesaler. Get wholesale deals in Toronto for Volcano (Terre d' Hermes Twist) Man Cologne | Ace Gifts Plus. We are what you've been looking for</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166353682537</id>
+      <title>Volcano (Terre d&apos; Hermes Twist) by New Brand M 100ml Boxed(RET)</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>VOLCM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166353682537</id>
+      <title>Volcano (Terre d&apos; Hermes Twist) by New Brand M 100ml Boxed(AGP1)</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>VOLCM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166353682537</id>
+      <title>Volcano (Terre d&apos; Hermes Twist) by New Brand M 100ml Boxed(AGP2)</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>VOLCM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166353682537</id>
+      <title>Volcano (Terre d&apos; Hermes Twist) by New Brand M 100ml Boxed(AGP3)</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>VOLCM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4166345457769</id>
+    <published>2019-09-27T17:40:16-04:00</published>
+    <updated>2019-09-27T17:40:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/sensualnewbrand-woman"/>
+    <title>Sensual (Scandal Twist) by New Brand For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/newbrandsensual-woman.jpg?v=1571506465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            0.10 - 20.95
+            <a href="https://acegiftsplus.ca/products/sensualnewbrand-woman">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume wholesaler. Get wholesale deals in Toronto for Sensual (Scandal Twist) by New Brand Woman Perfume | Ace Gifts Plus. We are what you've been looking for</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166345457769</id>
+      <title>Sensual (Scandal Twist) by New Brand EDP W 100ml Boxed(RET)</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>SENSW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166345457769</id>
+      <title>Sensual (Scandal Twist) by New Brand EDP W 100ml Boxed(AGP1)</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>SENSW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166345457769</id>
+      <title>Sensual (Scandal Twist) by New Brand EDP W 100ml Boxed(AGP2)</title>
+      <s:price currency="CAD">5.79</s:price>
+      <s:sku>SENSW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166345457769</id>
+      <title>Sensual (Scandal Twist) by New Brand EDP W 100ml Boxed(AGP3)</title>
+      <s:price currency="CAD">3.70</s:price>
+      <s:sku>SENSW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166345457769</id>
+      <title>Tester - Sensual (Scandale Twist) EDP by New Brand W 100ml Tester(RET)</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>SENSW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166345457769</id>
+      <title>Tester - Sensual (Scandale Twist) EDP by New Brand W 100ml Tester(AGP1)</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>SENSW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166345457769</id>
+      <title>Tester - Sensual (Scandale Twist) EDP by New Brand W 100ml Tester(AGP2)</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SENSW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166345457769</id>
+      <title>Tester - Sensual (Scandale Twist) EDP by New Brand W 100ml Tester(AGP3)</title>
+      <s:price currency="CAD">0.10</s:price>
+      <s:sku>SENSW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4166345392233</id>
+    <published>2019-09-27T17:40:11-04:00</published>
+    <updated>2019-09-27T17:40:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/secretnewbrand-woman"/>
+    <title>Secret (Good Girl Twist) by New Brand For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/newbrandsecret-woman.jpg?v=1571506424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            0.10 - 20.95
+            <a href="https://acegiftsplus.ca/products/secretnewbrand-woman">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume wholesaler. Get wholesale deals in Toronto for Secret (Good Girl Twist) by New Brand Woman Perfume | Ace Gifts Plus. We are what you've been looking for</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166345392233</id>
+      <title>Secret (Good Girl Twist) by New Brand EDP W 100ml Boxed(RET)</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>SECRW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166345392233</id>
+      <title>Tester -  Brand Secret (Good Girl Twist) W 100ml Tester(RET)</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>NEWBSECW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166345392233</id>
+      <title>Tester -  Brand Secret (Good Girl Twist) W 100ml Tester(AGP1)</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>NEWBSECW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166345392233</id>
+      <title>Tester -  Brand Secret (Good Girl Twist) W 100ml Tester(AGP2)</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>NEWBSECW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166345392233</id>
+      <title>Tester -  Brand Secret (Good Girl Twist) W 100ml Tester(AGP3)</title>
+      <s:price currency="CAD">0.10</s:price>
+      <s:sku>NEWBSECW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166345392233</id>
+      <title>Secret (Good Girl Twist) by New Brand EDP W 100ml Boxed(AGP1)</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>SECRW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166345392233</id>
+      <title>Secret (Good Girl Twist) by New Brand EDP W 100ml Boxed(AGP2)</title>
+      <s:price currency="CAD">5.79</s:price>
+      <s:sku>SECRW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166345392233</id>
+      <title>Secret (Good Girl Twist) by New Brand EDP W 100ml Boxed(AGP3)</title>
+      <s:price currency="CAD">3.70</s:price>
+      <s:sku>SECRW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4166343164009</id>
+    <published>2019-09-27T17:34:00-04:00</published>
+    <updated>2019-09-27T17:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/princessdreaming-woman"/>
+    <title>Princess Dreaming (La Vie Est Belle Twist) by New Brand For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/newbrandprincessdreaming-woman.jpg?v=1571506396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            0.10 - 20.95
+            <a href="https://acegiftsplus.ca/products/princessdreaming-woman">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume wholesaler. Get wholesale deals in Toronto for Princess Dreaming (La Vie Est Belle Twist) Woman Perfume | Ace Gifts Plus. We are what you've been looking for</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166343164009</id>
+      <title>Princess Dreaming (La Vie Est Belle Twist) by New Brand EDP W 100ml Boxed(RET)</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>PRIDREW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166343164009</id>
+      <title>Tester - Princess Dreaming (La vie est belle Twist) W 100ml Tester(RET)</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>NEWBDREW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166343164009</id>
+      <title>Tester - Princess Dreaming (La vie est belle Twist) W 100ml Tester(AGP1)</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>NEWBDREW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166343164009</id>
+      <title>Tester - Princess Dreaming (La vie est belle Twist) W 100ml Tester(AGP2)</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>NEWBDREW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166343164009</id>
+      <title>Tester - Princess Dreaming (La vie est belle Twist) W 100ml Tester(AGP3)</title>
+      <s:price currency="CAD">0.10</s:price>
+      <s:sku>NEWBDREW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166343164009</id>
+      <title>Princess Dreaming (La Vie Est Belle Twist) by New Brand EDP W 100ml Boxed(AGP1)</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>PRIDREW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166343164009</id>
+      <title>Princess Dreaming (La Vie Est Belle Twist) by New Brand EDP W 100ml Boxed(AGP2)</title>
+      <s:price currency="CAD">5.79</s:price>
+      <s:sku>PRIDREW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166343164009</id>
+      <title>Princess Dreaming (La Vie Est Belle Twist) by New Brand EDP W 100ml Boxed(AGP3)</title>
+      <s:price currency="CAD">3.70</s:price>
+      <s:sku>PRIDREW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4166257672297</id>
+    <published>2019-09-27T16:50:37-04:00</published>
+    <updated>2019-09-27T16:50:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/egogoldnewbrand-man"/>
+    <title>Ego Gold (Green Irish Twist) by New Brand For Man</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/newbrandego-man.jpg?v=1571506363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            3.25 - 20.95
+            <a href="https://acegiftsplus.ca/products/egogoldnewbrand-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume wholesaler. Get wholesale deals in Toronto for Ego Gold (Green Irish Twist) Man Perfume | Ace Gifts Plus. We are what you've been looking for</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166257672297</id>
+      <title>Ego Gold (Green Irish Twist) by New Brand M 100ml Boxed(RET)</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>EGOGOM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166257672297</id>
+      <title>Ego Gold (Green Irish Twist) by New Brand M 100ml Boxed(AGP1)</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>EGOGOM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166257672297</id>
+      <title>Ego Gold (Green Irish Twist) by New Brand M 100ml Boxed(AGP2)</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>EGOGOM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166257672297</id>
+      <title>Ego Gold (Green Irish Twist) by New Brand M 100ml Boxed(AGP3)</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>EGOGOM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4166241386601</id>
+    <published>2019-09-27T16:47:06-04:00</published>
+    <updated>2019-09-27T16:47:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/disneyfrozenelsa-woman"/>
+    <title>Disney Frozen Elsa For Girls</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Disney</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/disneyfrozenelsa-woman.jpg?v=1626291795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Disney<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            3.50 - 26.95
+            <a href="https://acegiftsplus.ca/products/disneyfrozenelsa-woman">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfume wholesaler. Get wholesale deals in Toronto for Disney Frozen Elsa Woman Perfume | Ace Gifts Plus. We are what you've been looking for</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166241386601</id>
+      <title>Disney Frozen Elsa W 100ml Boxed (Kids)(RET)</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku>DISFRELW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166241386601</id>
+      <title>Set - Disney Frozen 2 Elsa House W 50ml Set (with 55 gram soap)(RET)</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>DISF2ELSHW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166241386601</id>
+      <title>Set - Disney Frozen 2 Elsa House W 50ml Set (with 55 gram soap)(AGP1)</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku>DISF2ELSHW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166241386601</id>
+      <title>Set - Disney Frozen 2 Elsa House W 50ml Set (with 55 gram soap)(AGP2)</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>DISF2ELSHW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166241386601</id>
+      <title>Set - Disney Frozen 2 Elsa House W 50ml Set (with 55 gram soap)(AGP3)</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>DISF2ELSHW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166241386601</id>
+      <title>Disney Frozen Elsa W 100ml Boxed (Kids)(AGP1)</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku>DISFRELW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166241386601</id>
+      <title>Disney Frozen Elsa W 100ml Boxed (Kids)(AGP2)</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>DISFRELW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4166241386601</id>
+      <title>Disney Frozen Elsa W 100ml Boxed (Kids)(AGP3)</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>DISFRELW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/3650858811497</id>
+    <published>2019-08-06T15:17:58-04:00</published>
+    <updated>2019-08-06T15:17:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/genny-woman"/>
+    <title>Genny For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Genny</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/gennyedptester-man.jpg?v=1565383849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Genny<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            3.00 - 22.95
+            <a href="https://acegiftsplus.ca/products/genny-woman">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wholesale perfume outlet. Buy in wholesale in Toronto for  Genny EDP Woman Perfume | Ace Gifts Plus. We are Toronto's Top Shop.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/3650858811497</id>
+      <title>Tester - Genny EDP W 100ml Tester(RET)</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku>GENEDPW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/3650858811497</id>
+      <title>Tester - Genny EDP W 100ml Tester(AGP1)</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>GENEDPW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/3650858811497</id>
+      <title>Tester - Genny EDP W 100ml Tester(AGP2)</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>GENEDPW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/3650858811497</id>
+      <title>Tester - Genny EDP W 100ml Tester(AGP3)</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>GENEDPW-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/3557240307817</id>
+    <published>2019-05-20T14:47:46-04:00</published>
+    <updated>2019-05-20T14:47:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/thenbytwistbynewbrand-man"/>
+    <title>The NB (Y Twist) By New Brand For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>New Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/nbprestige-man.jpg?v=1559247157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Brand<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            3.25 - 20.95
+            <a href="https://acegiftsplus.ca/products/thenbytwistbynewbrand-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wholesale perfume store. Get the best wholesale price in Toronto for The NB (Y Twist) By New Brand Man Cologne | Ace Gifts Plus. Your premier source for wholesale fragrance</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/3557240307817</id>
+      <title>The NB (Y Twist) By New Brand M 100ml Boxed(RET)</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>THENBM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/3557240307817</id>
+      <title>The NB (Y Twist) By New Brand M 100ml Boxed(AGP1)</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>THENBM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/3557240307817</id>
+      <title>The NB (Y Twist) By New Brand M 100ml Boxed(AGP2)</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>THENBM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/3557240307817</id>
+      <title>The NB (Y Twist) By New Brand M 100ml Boxed(AGP3)</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>THENBM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/3557163270249</id>
+    <published>2019-05-20T13:50:29-04:00</published>
+    <updated>2019-05-20T13:50:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/cubawinner-man"/>
+    <title>Cuba Winner For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/cubawinner-man.jpg?v=1559246480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            3.00 - 19.43
+            <a href="https://acegiftsplus.ca/products/cubawinner-man">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wholesale perfume store. Get the best wholesale price in Toronto for Cuba Winner Mens Cologne | Ace Gifts Plus. Your premier source for wholesale fragrance</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/3557163270249</id>
+      <title>Cuba Winner M 100ml Spray Boxed(RET)</title>
+      <s:price currency="CAD">19.43</s:price>
+      <s:sku>CUBWINM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/3557163270249</id>
+      <title>Cuba Winner M 100ml Spray Boxed(AGP1)</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>CUBWINM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/3557163270249</id>
+      <title>Cuba Winner M 100ml Spray Boxed(AGP2)</title>
+      <s:price currency="CAD">6.59</s:price>
+      <s:sku>CUBWINM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/3557163270249</id>
+      <title>Cuba Winner M 100ml Spray Boxed(AGP3)</title>
+      <s:price currency="CAD">4.20</s:price>
+      <s:sku>CUBWINM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/3557163270249</id>
+      <title>Tester - Cuba Winner M 100ml Spray Tester(RET)</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>CUBWINM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/3557163270249</id>
+      <title>Tester - Cuba Winner M 100ml Spray Tester(AGP1)</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>CUBWINM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/3557163270249</id>
+      <title>Tester - Cuba Winner M 100ml Spray Tester(AGP2)</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>CUBWINM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/3557163270249</id>
+      <title>Tester - Cuba Winner M 100ml Spray Tester(AGP3)</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>CUBWINM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,2105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://acegiftsplus.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://acegiftsplus.ca/collections/our-prestige-gift-set-collection.atom"/>
+  <title>Ace Gifts Plus</title>
+  <updated>2021-07-14T16:33:56-04:00</updated>
+  <author>
+    <name>Ace Gifts Plus</name>
+  </author>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6824493088961</id>
+    <published>2021-07-14T16:33:56-04:00</published>
+    <updated>2021-07-14T16:33:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/cubagold-man"/>
+    <title>Cuba Gold For Man</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Cuba</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/819_521d81cd-4549-4c76-a8f1-50a5395062aa.jpg?v=1626296632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cuba<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            2.30 - 38.95
+            <a href="https://acegiftsplus.ca/products/cubagold-man">(28 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Cuba Gold | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Cuba Gold M 35Ml Boxed(RET)</title>
+      <s:price currency="CAD">15.45</s:price>
+      <s:sku>CUBM-35B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Cuba Gold M 35Ml Boxed(AGP1)</title>
+      <s:price currency="CAD">3.75</s:price>
+      <s:sku>CUBM-35B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Cuba Gold M 35Ml Boxed(AGP2)</title>
+      <s:price currency="CAD">3.59</s:price>
+      <s:sku>CUBM-35B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Cuba Gold M 35Ml Boxed(AGP3)</title>
+      <s:price currency="CAD">2.30</s:price>
+      <s:sku>CUBM-35B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Mega Set - Cuba Gold M 4pc Blockbuster 4pc Set (w/ 100ml + AfterShave + ShowerGel + 35ml Bonus)(RET)</title>
+      <s:price currency="CAD">30.95</s:price>
+      <s:sku>CUBAMB4M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Mega Set - Cuba Gold M 4pc Blockbuster 4pc Set (w/ 100ml + AfterShave + ShowerGel + 35ml Bonus)(AGP1)</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>CUBAMB4M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Mega Set - Cuba Gold M 4pc Blockbuster 4pc Set (w/ 100ml + AfterShave + ShowerGel + 35ml Bonus)(AGP2)</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>CUBAMB4M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Mega Set - Cuba Gold M 4pc Blockbuster 4pc Set (w/ 100ml + AfterShave + ShowerGel + 35ml Bonus)(AGP3)</title>
+      <s:price currency="CAD">9.25</s:price>
+      <s:sku>CUBAMB4M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Bucket Set - Cuba Gold M  5Pc(EDT 100ml + A/S + Deo 200ml + EDT 35ml) Gift Set in Wooden Bucket(RET)</title>
+      <s:price currency="CAD">35.95</s:price>
+      <s:sku>CUBGLDM5PCM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Bucket Set - Cuba Gold M  5Pc(EDT 100ml + A/S + Deo 200ml + EDT 35ml) Gift Set in Wooden Bucket(AGP1)</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>CUBGLDM5PCM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Bucket Set - Cuba Gold M  5Pc(EDT 100ml + A/S + Deo 200ml + EDT 35ml) Gift Set in Wooden Bucket(AGP2)</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>CUBGLDM5PCM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Bucket Set - Cuba Gold M  5Pc(EDT 100ml + A/S + Deo 200ml + EDT 35ml) Gift Set in Wooden Bucket(AGP3)</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>CUBGLDM5PCM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Cuba Gold M 100Ml Boxed(RET)</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>CUBM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Cuba Gold M 100Ml Boxed(AGP1)</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>CUBM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Cuba Gold M 100Ml Boxed(AGP2)</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>CUBM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Cuba Gold M 100Ml Boxed(AGP3)</title>
+      <s:price currency="CAD">4.20</s:price>
+      <s:sku>CUBM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Tester - Cuba M 100ml Spray Tester(RET)</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>CUBM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Tester - Cuba M 100ml Spray Tester(AGP1)</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>CUBM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Tester - Cuba M 100ml Spray Tester(AGP2)</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>CUBM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Tester - Cuba M 100ml Spray Tester(AGP3)</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>CUBM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Gift Set - Cuba Gold M 100Ml 3Pc Gift Set (Open Window)(RET)</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>CUBM3M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Gift Set - Cuba Gold M 100Ml 3Pc Gift Set (Open Window)(AGP1)</title>
+      <s:price currency="CAD">14.50</s:price>
+      <s:sku>CUBM3M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Gift Set - Cuba Gold M 100Ml 3Pc Gift Set (Open Window)(AGP2)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>CUBM3M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Gift Set - Cuba Gold M 100Ml 3Pc Gift Set (Open Window)(AGP3)</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>CUBM3M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Super Blockbuster Set - Cuba Must Have M 100ml Gift Set (with AS, DEO, SG + 35ml Bonus)(RET)</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku>CUBM5M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Super Blockbuster Set - Cuba Must Have M 100ml Gift Set (with AS, DEO, SG + 35ml Bonus)(AGP1)</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>CUBM5M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Super Blockbuster Set - Cuba Must Have M 100ml Gift Set (with AS, DEO, SG + 35ml Bonus)(AGP2)</title>
+      <s:price currency="CAD">19.49</s:price>
+      <s:sku>CUBM5M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6824493088961</id>
+      <title>Super Blockbuster Set - Cuba Must Have M 100ml Gift Set (with AS, DEO, SG + 35ml Bonus)(AGP3)</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>CUBM5M-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6820574101697</id>
+    <published>2021-07-12T15:03:31-04:00</published>
+    <updated>2021-07-12T15:03:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/nishaneduosetanihacivat-man"/>
+    <title>Nishane DUO Set (Ani + Hacivat) For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Nishane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/NishaneDuoKitAniHacivat-man.jpg?v=1626285016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nishane<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            47.14 - 114.00
+            <a href="https://acegiftsplus.ca/products/nishaneduosetanihacivat-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Nishane DUO Set (Ani + Hacivat) | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6820574101697</id>
+      <title>Travel Pack - Nishane Duo (Hacivat + Ani) 2x15ml Set(RET)</title>
+      <s:price currency="CAD">114.00</s:price>
+      <s:sku>NISHHACANIM-15S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6820574101697</id>
+      <title>Travel Pack - Nishane Duo (Hacivat + Ani) 2x15ml Set(AGP1)</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku>NISHHACANIM-15S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6820574101697</id>
+      <title>Travel Pack - Nishane Duo (Hacivat + Ani) 2x15ml Set(AGP2)</title>
+      <s:price currency="CAD">86.00</s:price>
+      <s:sku>NISHHACANIM-15S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6820574101697</id>
+      <title>Travel Pack - Nishane Duo (Hacivat + Ani) 2x15ml Set(AGP3)</title>
+      <s:price currency="CAD">47.14</s:price>
+      <s:sku>NISHHACANIM-15S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6820573544641</id>
+    <published>2021-07-12T15:02:37-04:00</published>
+    <updated>2021-07-12T15:02:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/givenchyirresistable2020-woman"/>
+    <title>Givenchy Irresistable (2020) For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Givenchy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/GivenchyIrresistable2020-woman.jpg?v=1626286444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Givenchy<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            54.00 - 118.00
+            <a href="https://acegiftsplus.ca/products/givenchyirresistable2020-woman">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Givenchy Irresistable (2020) | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>gift set</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6820573544641</id>
+      <title>Givenchy Irresistable (2020) EDP W 80ml Boxed(RET)</title>
+      <s:price currency="CAD">108.00</s:price>
+      <s:sku>GIVIRSTW-80B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6820573544641</id>
+      <title>Givenchy Irresistable (2020) EDP W 80ml Boxed(AGP1)</title>
+      <s:price currency="CAD">86.00</s:price>
+      <s:sku>GIVIRSTW-80B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6820573544641</id>
+      <title>Givenchy Irresistable (2020) EDP W 80ml Boxed(AGP2)</title>
+      <s:price currency="CAD">85.00</s:price>
+      <s:sku>GIVIRSTW-80B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6820573544641</id>
+      <title>Givenchy Irresistable (2020) EDP W 80ml Boxed(AGP3)</title>
+      <s:price currency="CAD">54.00</s:price>
+      <s:sku>GIVIRSTW-80B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6820573544641</id>
+      <title>Set - Givenchy Irresistable EDP (2020) W 80ml Gift Set(RET)</title>
+      <s:price currency="CAD">118.00</s:price>
+      <s:sku>IRRESW-80S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6820573544641</id>
+      <title>Set - Givenchy Irresistable EDP (2020) W 80ml Gift Set(AGP1)</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku>IRRESW-80S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6820573544641</id>
+      <title>Set - Givenchy Irresistable EDP (2020) W 80ml Gift Set(AGP2)</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>IRRESW-80S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6820573544641</id>
+      <title>Set - Givenchy Irresistable EDP (2020) W 80ml Gift Set(AGP3)</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>IRRESW-80S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6756604543169</id>
+    <published>2021-06-09T15:59:58-04:00</published>
+    <updated>2021-06-09T15:59:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/mmicallefylangingold-woman"/>
+    <title>M. Micallef Ylang in Gold For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>M. Micallef</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>M. Micallef<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            24.50 - 168.00
+            <a href="https://acegiftsplus.ca/products/mmicallefylangingold-woman">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for M. Micallef Ylang in Gold | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756604543169</id>
+      <title>M.Micallef Ylang In Gold W 100ml Boxed(RET)</title>
+      <s:price currency="CAD">168.00</s:price>
+      <s:sku>MICYIGW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756604543169</id>
+      <title>M.Micallef Ylang In Gold W 100ml Boxed(AGP1)</title>
+      <s:price currency="CAD">139.00</s:price>
+      <s:sku>MICYIGW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756604543169</id>
+      <title>M.Micallef Ylang In Gold W 100ml Boxed(AGP2)</title>
+      <s:price currency="CAD">138.00</s:price>
+      <s:sku>MICYIGW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756604543169</id>
+      <title>M.Micallef Ylang In Gold W 100ml Boxed(AGP3)</title>
+      <s:price currency="CAD">86.30</s:price>
+      <s:sku>MICYIGW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756604543169</id>
+      <title>Set - M. Micallef Ylang in Gold W 10ml Gift Set (with bonus Pure Extreme, Royal Muska and 20 Years) 4x10ml Set(RET)</title>
+      <s:price currency="CAD">64.00</s:price>
+      <s:sku>MMICALLEFM-10S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756604543169</id>
+      <title>Set - M. Micallef Ylang in Gold W 10ml Gift Set (with bonus Pure Extreme, Royal Muska and 20 Years) 4x10ml Set(AGP1)</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>MMICALLEFM-10S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756604543169</id>
+      <title>Set - M. Micallef Ylang in Gold W 10ml Gift Set (with bonus Pure Extreme, Royal Muska and 20 Years) 4x10ml Set(AGP2)</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>MMICALLEFM-10S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756604543169</id>
+      <title>Set - M. Micallef Ylang in Gold W 10ml Gift Set (with bonus Pure Extreme, Royal Muska and 20 Years) 4x10ml Set(AGP3)</title>
+      <s:price currency="CAD">24.50</s:price>
+      <s:sku>MMICALLEFM-10S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6756597399745</id>
+    <published>2021-06-09T15:57:50-04:00</published>
+    <updated>2021-06-09T15:57:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/dunhilliconracingblue-man"/>
+    <title>Dunhill Icon Racing Blue For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Dunhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/DunhillIconRacingBlue-man.jpg?v=1626116491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dunhill<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            9.00 - 98.95
+            <a href="https://acegiftsplus.ca/products/dunhilliconracingblue-man">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Dunhill Icon Racing Blue | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>redblue30</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756597399745</id>
+      <title>Dunhill Icon Racing Blue EDP M 30ml Boxed(RET)</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku>DICRACBLUEM-30B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756597399745</id>
+      <title>Dunhill Icon Racing Blue EDP M 30ml Boxed(AGP1)</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>DICRACBLUEM-30B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756597399745</id>
+      <title>Dunhill Icon Racing Blue EDP M 30ml Boxed(AGP2)</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>DICRACBLUEM-30B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756597399745</id>
+      <title>Dunhill Icon Racing Blue EDP M 30ml Boxed(AGP3)</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>DICRACBLUEM-30B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756597399745</id>
+      <title>Dunhill Icon Racing Blue EDP M 100ml Boxed(RET)</title>
+      <s:price currency="CAD">94.00</s:price>
+      <s:sku>DIRACBLUM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756597399745</id>
+      <title>Dunhill Icon Racing Blue EDP M 100ml Boxed(AGP1)</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>DIRACBLUM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756597399745</id>
+      <title>Dunhill Icon Racing Blue EDP M 100ml Boxed(AGP2)</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>DIRACBLUM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756597399745</id>
+      <title>Dunhill Icon Racing Blue EDP M 100ml Boxed(AGP3)</title>
+      <s:price currency="CAD">44.92</s:price>
+      <s:sku>DIRACBLUM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756597399745</id>
+      <title>Tester - Dunhill Icon Racing Blue EDP M 100ml Tester (no cap)(RET)</title>
+      <s:price currency="CAD">78.95</s:price>
+      <s:sku>DIRACBLUM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756597399745</id>
+      <title>Tester - Dunhill Icon Racing Blue EDP M 100ml Tester (no cap)(AGP1)</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>DIRACBLUM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756597399745</id>
+      <title>Tester - Dunhill Icon Racing Blue EDP M 100ml Tester (no cap)(AGP2)</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>DIRACBLUM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756597399745</id>
+      <title>Tester - Dunhill Icon Racing Blue EDP M 100ml Tester (no cap)(AGP3)</title>
+      <s:price currency="CAD">37.02</s:price>
+      <s:sku>DIRACBLUM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756597399745</id>
+      <title>Set - Dunhill Icon Racing Blue EDP M 100ml( 100ml EDP + 30ml EDT + 90ml ShowerGel) GiftSet(RET)</title>
+      <s:price currency="CAD">98.95</s:price>
+      <s:sku>DUNHLIRBM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756597399745</id>
+      <title>Set - Dunhill Icon Racing Blue EDP M 100ml( 100ml EDP + 30ml EDT + 90ml ShowerGel) GiftSet(AGP1)</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>DUNHLIRBM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756597399745</id>
+      <title>Set - Dunhill Icon Racing Blue EDP M 100ml( 100ml EDP + 30ml EDT + 90ml ShowerGel) GiftSet(AGP2)</title>
+      <s:price currency="CAD">52.50</s:price>
+      <s:sku>DUNHLIRBM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756597399745</id>
+      <title>Set - Dunhill Icon Racing Blue EDP M 100ml( 100ml EDP + 30ml EDT + 90ml ShowerGel) GiftSet(AGP3)</title>
+      <s:price currency="CAD">33.50</s:price>
+      <s:sku>DUNHLIRBM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6756588421313</id>
+    <published>2021-06-09T15:55:14-04:00</published>
+    <updated>2021-06-09T15:55:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/alexandrejblackmuscs-man"/>
+    <title>Alexandre J Black Muscs For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Alexandre J</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/DuoKitAlexandreBlackMuscZafeerOudVanille-man.jpg?v=1625763856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alexandre J<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            33.00 - 78.95
+            <a href="https://acegiftsplus.ca/products/alexandrejblackmuscs-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Alexandre J Black Muscs | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756588421313</id>
+      <title>Duo Set - Alexandre J Black Muscs 30ml + Zafeer Oud 30ml EDP Set(RET)</title>
+      <s:price currency="CAD">78.95</s:price>
+      <s:sku>ALXBMZOM-30S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756588421313</id>
+      <title>Duo Set - Alexandre J Black Muscs 30ml + Zafeer Oud 30ml EDP Set(AGP1)</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>ALXBMZOM-30S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756588421313</id>
+      <title>Duo Set - Alexandre J Black Muscs 30ml + Zafeer Oud 30ml EDP Set(AGP2)</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>ALXBMZOM-30S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6756588421313</id>
+      <title>Duo Set - Alexandre J Black Muscs 30ml + Zafeer Oud 30ml EDP Set(AGP3)</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>ALXBMZOM-30S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6556057469121</id>
+    <published>2021-03-03T13:22:51-05:00</published>
+    <updated>2021-03-03T13:22:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/swissarabianthebestofshaghaf-man"/>
+    <title>Swiss Arabian The Best Of Shaghaf (Shaghaf 985, Oud, Oud Aswad) Blockbuster Trio Gift Set For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Swiss Arabian</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/SwissArabianTheBestOfShaghafGiftSetImage2-man.jpg?v=1614802430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Swiss Arabian<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            63.00 - 128.00
+            <a href="https://acegiftsplus.ca/products/swissarabianthebestofshaghaf-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Swiss Arabian The Best Of Shaghaf (Shaghaf 985, Oud, Oud Aswad) Blockbuster Trio Gift Set | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6556057469121</id>
+      <title>Trio Set - Swiss Arabian (Shaghaf 985, Oud, Oud Aswad) M 3x100ml Gift Set(RET)</title>
+      <s:price currency="CAD">128.00</s:price>
+      <s:sku>SWITHBESHM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6556057469121</id>
+      <title>Trio Set - Swiss Arabian (Shaghaf 985, Oud, Oud Aswad) M 3x100ml Gift Set(AGP1)</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>SWITHBESHM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6556057469121</id>
+      <title>Trio Set - Swiss Arabian (Shaghaf 985, Oud, Oud Aswad) M 3x100ml Gift Set(AGP2)</title>
+      <s:price currency="CAD">72.99</s:price>
+      <s:sku>SWITHBESHM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6556057469121</id>
+      <title>Trio Set - Swiss Arabian (Shaghaf 985, Oud, Oud Aswad) M 3x100ml Gift Set(AGP3)</title>
+      <s:price currency="CAD">63.00</s:price>
+      <s:sku>SWITHBESHM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6275423436993</id>
+    <published>2021-02-05T11:13:53-05:00</published>
+    <updated>2021-02-05T11:13:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/jilsandersimplyelixir-woman"/>
+    <title>Jil Sander Simply Elixir For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Jill Sander</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/newfragimagenl_ef250dc2-1ebd-478f-b649-7568b445987d.jpg?v=1612541633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jill Sander<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            17.80 - 48.95
+            <a href="https://acegiftsplus.ca/products/jilsandersimplyelixir-woman">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Jil Sander Simply Elixir | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6275423436993</id>
+      <title>Set - Jill Sander Simply Elixir EDP W 40ml Gift Set (with Body Lotion)(RET)</title>
+      <s:price currency="CAD">48.95</s:price>
+      <s:sku>JILSSEW-40S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6275423436993</id>
+      <title>Set - Jill Sander Simply Elixir EDP W 40ml Gift Set (with Body Lotion)(AGP1)</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>JILSSEW-40S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6275423436993</id>
+      <title>Set - Jill Sander Simply Elixir EDP W 40ml Gift Set (with Body Lotion)(AGP2)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>JILSSEW-40S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6275423436993</id>
+      <title>Set - Jill Sander Simply Elixir EDP W 40ml Gift Set (with Body Lotion)(AGP3)</title>
+      <s:price currency="CAD">17.80</s:price>
+      <s:sku>JILSSEW-40S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6150150160577</id>
+    <published>2020-12-12T15:15:58-05:00</published>
+    <updated>2020-12-12T15:15:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/pawpatrol-kids"/>
+    <title>Paw Patrol For Kids</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Paw Patrol</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/PawControlEDT30ml-man_78d3d1f3-c434-400e-9569-b0663f707683.jpg?v=1614726220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paw Patrol<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            9.03 - 34.00
+            <a href="https://acegiftsplus.ca/products/pawpatrol-kids">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Paw Patrol | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150150160577</id>
+      <title>Set - Paw Patrol 30ml Set (with Snack Box)(RET)</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>PAWPAT-30S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150150160577</id>
+      <title>Set - Paw Patrol 30ml Set (with Snack Box)(AGP1)</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>PAWPAT-30S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150150160577</id>
+      <title>Set - Paw Patrol 30ml Set (with Snack Box)(AGP2)</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>PAWPAT-30S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150150160577</id>
+      <title>Set - Paw Patrol 30ml Set (with Snack Box)(AGP3)</title>
+      <s:price currency="CAD">9.03</s:price>
+      <s:sku>PAWPAT-30S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6150149800129</id>
+    <published>2020-12-12T15:15:32-05:00</published>
+    <updated>2020-12-12T15:15:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/montblanclegendedp-man"/>
+    <title>Mont Blanc Legend Eau de Parfum EDP Edition (2020) For Man</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Mont Blanc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/MontBlancLegendEDP100ml-man.jpg?v=1628023102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mont Blanc<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            24.50 - 72.95
+            <a href="https://acegiftsplus.ca/products/montblanclegendedp-man">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Mont Blanc Legend Eau de Parfum EDP Edition (2020) | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150149800129</id>
+      <title>Mont Blanc Legend EDP Edition M 50ml Boxed(RET)</title>
+      <s:price currency="CAD">64.00</s:price>
+      <s:sku>MONBLEGEDPM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150149800129</id>
+      <title>Set - Mont Blanc Legend EDP Edition M 50ml Set(RET)</title>
+      <s:price currency="CAD">66.95</s:price>
+      <s:sku>MONBLEDPM-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150149800129</id>
+      <title>Set - Mont Blanc Legend EDP Edition M 50ml Set(AGP1)</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MONBLEDPM-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150149800129</id>
+      <title>Set - Mont Blanc Legend EDP Edition M 50ml Set(AGP2)</title>
+      <s:price currency="CAD">43.50</s:price>
+      <s:sku>MONBLEDPM-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150149800129</id>
+      <title>Set - Mont Blanc Legend EDP Edition M 50ml Set(AGP3)</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>MONBLEDPM-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150149800129</id>
+      <title>Mont Blanc Legend EDP Edition M 50ml Boxed(AGP1)</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>MONBLEGEDPM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150149800129</id>
+      <title>Mont Blanc Legend EDP Edition M 50ml Boxed(AGP2)</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>MONBLEGEDPM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150149800129</id>
+      <title>Mont Blanc Legend EDP Edition M 50ml Boxed(AGP3)</title>
+      <s:price currency="CAD">24.50</s:price>
+      <s:sku>MONBLEGEDPM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150149800129</id>
+      <title>Mont Blanc Legend EDP Edition M 100ml Boxed(RET)</title>
+      <s:price currency="CAD">72.95</s:price>
+      <s:sku>MONTBLEDPM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150149800129</id>
+      <title>Mont Blanc Legend EDP Edition M 100ml Boxed(AGP1)</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>MONTBLEDPM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150149800129</id>
+      <title>Mont Blanc Legend EDP Edition M 100ml Boxed(AGP2)</title>
+      <s:price currency="CAD">52.50</s:price>
+      <s:sku>MONTBLEDPM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6150149800129</id>
+      <title>Mont Blanc Legend EDP Edition M 100ml Boxed(AGP3)</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>MONTBLEDPM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/6075245723841</id>
+    <published>2020-11-09T19:58:18-05:00</published>
+    <updated>2020-11-09T19:58:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/diorminiset-man"/>
+    <title>Christian Dior Miniature Gift Set (The Cachemire, Sakura, Rose Gipsy)  For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Christian Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/ChristianDiorAssortedTesters-woman.jpg?v=1612984252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Dior<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            1.00 - 78.95
+            <a href="https://acegiftsplus.ca/products/diorminiset-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Christian Dior Miniature Gift Set (The Cachemire, Sakura, Rose Gipsy)  | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6075245723841</id>
+      <title>Set - Dior Miniature Set EDP M 3 x 7ml Gift Set (The Cachemire, Sakura,  Rose Gypsy Splash On, Non Spray)(RET)</title>
+      <s:price currency="CAD">78.95</s:price>
+      <s:sku>DIORMINIM-7S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6075245723841</id>
+      <title>Set - Dior Miniature Set EDP M 3 x 7ml Gift Set (The Cachemire, Sakura,  Rose Gypsy Splash On, Non Spray)(AGP1)</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>DIORMINIM-7S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6075245723841</id>
+      <title>Set - Dior Miniature Set EDP M 3 x 7ml Gift Set (The Cachemire, Sakura,  Rose Gypsy Splash On, Non Spray)(AGP2)</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>DIORMINIM-7S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/6075245723841</id>
+      <title>Set - Dior Miniature Set EDP M 3 x 7ml Gift Set (The Cachemire, Sakura,  Rose Gypsy Splash On, Non Spray)(AGP3)</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>DIORMINIM-7S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4816529784937</id>
+    <published>2020-10-16T19:49:04-04:00</published>
+    <updated>2020-10-16T19:49:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/lartisanparfumeurtrioset-man"/>
+    <title>L&apos;Artisan Parfumeur Collection Mysteres D&apos;Orient (Timbuktu, L&apos;eau D&apos;Ambre, Mon Numero 10) Trio Set For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>L&apos;artisan Parfumeur</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/newfragimagenl_b5ff0faa-5b0d-4509-8e56-b2a8939165a3.jpg?v=1602892145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>L&#39;artisan Parfumeur<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            21.70 - 102.00
+            <a href="https://acegiftsplus.ca/products/lartisanparfumeurtrioset-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for L'Artisan Parfumeur Collection Mysteres D'Orient (Timbuktu, L'eau D'Ambre, Mon Numero 10) Trio Set | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4816529784937</id>
+      <title>Set - L&apos;artisan Collection Mysteres D&apos;Orient (L&apos;eau D&apos;Ambre, Mon Numero 10, Timbuktu) M 30ml Set(RET)</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>LARAMTM-30S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4816529784937</id>
+      <title>Set - L&apos;artisan Collection Mysteres D&apos;Orient (L&apos;eau D&apos;Ambre, Mon Numero 10, Timbuktu) M 30ml Set(AGP1)</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>LARAMTM-30S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4816529784937</id>
+      <title>Set - L&apos;artisan Collection Mysteres D&apos;Orient (L&apos;eau D&apos;Ambre, Mon Numero 10, Timbuktu) M 30ml Set(AGP2)</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>LARAMTM-30S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4816529784937</id>
+      <title>Set - L&apos;artisan Collection Mysteres D&apos;Orient (L&apos;eau D&apos;Ambre, Mon Numero 10, Timbuktu) M 30ml Set(AGP3)</title>
+      <s:price currency="CAD">21.70</s:price>
+      <s:sku>LARAMTM-30S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4804288282729</id>
+    <published>2020-10-02T23:30:34-04:00</published>
+    <updated>2020-10-02T23:30:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/zadigjustrock-man"/>
+    <title>Zadig and Voltaire Just Rock Pour Lui For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Zadig and Voltaire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/newfragimagenl_0f3f68a5-886f-47c1-9fbd-694c0fc05463.jpg?v=1623772814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zadig and Voltaire<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            25.90 - 80.95
+            <a href="https://acegiftsplus.ca/products/zadigjustrock-man">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Zadig and Voltaire Just Rock Pour Lui | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>scentstory</s:tag>
+    <s:tag>story</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4804288282729</id>
+      <title>Set - Zadig &amp; Voltaire Just Rock Pour Lui M 50ml Gift Set(RET)</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>ZADVJRM-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4804288282729</id>
+      <title>Set - Zadig &amp; Voltaire Just Rock Pour Lui M 50ml Gift Set(AGP1)</title>
+      <s:price currency="CAD">52.00</s:price>
+      <s:sku>ZADVJRM-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4804288282729</id>
+      <title>Set - Zadig &amp; Voltaire Just Rock Pour Lui M 50ml Gift Set(AGP2)</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>ZADVJRM-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4804288282729</id>
+      <title>Set - Zadig &amp; Voltaire Just Rock Pour Lui M 50ml Gift Set(AGP3)</title>
+      <s:price currency="CAD">25.90</s:price>
+      <s:sku>ZADVJRM-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4804288282729</id>
+      <title>Zadig &amp; Voltaire Just Rock Pour Lui M 100ml EDT Boxed(RET)</title>
+      <s:price currency="CAD">80.95</s:price>
+      <s:sku>ZADVJUSRM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4804288282729</id>
+      <title>Zadig &amp; Voltaire Just Rock Pour Lui M 100ml EDT Boxed(AGP1)</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>ZADVJUSRM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4804288282729</id>
+      <title>Zadig &amp; Voltaire Just Rock Pour Lui M 100ml EDT Boxed(AGP2)</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>ZADVJUSRM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4804288282729</id>
+      <title>Zadig &amp; Voltaire Just Rock Pour Lui M 100ml EDT Boxed(AGP3)</title>
+      <s:price currency="CAD">31.00</s:price>
+      <s:sku>ZADVJUSRM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4804287430761</id>
+    <published>2020-10-02T23:29:52-04:00</published>
+    <updated>2020-10-02T23:29:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/oscarbellablanca-woman"/>
+    <title>Oscar De La Renta Bella Blanca For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Oscar De La Renta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/OscarDeLaRentaBellaBlancaEDP100ml-woman.jpg?v=1614725979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oscar De La Renta<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            35.00 - 78.00
+            <a href="https://acegiftsplus.ca/products/oscarbellablanca-woman">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Oscar De La Renta Bella Blanca | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>elite15</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>intrusion</s:tag>
+    <s:tag>oscar de la renta</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>volupte</s:tag>
+    <s:tag>woman</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4804287430761</id>
+      <title>Oscar De La Renta Bella Blanca EDP W 100ml Boxed(RET)</title>
+      <s:price currency="CAD">78.00</s:price>
+      <s:sku>OSCBBW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4804287430761</id>
+      <title>Oscar De La Renta Bella Blanca EDP W 100ml Boxed(AGP1)</title>
+      <s:price currency="CAD">67.00</s:price>
+      <s:sku>OSCBBW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4804287430761</id>
+      <title>Oscar De La Renta Bella Blanca EDP W 100ml Boxed(AGP2)</title>
+      <s:price currency="CAD">63.99</s:price>
+      <s:sku>OSCBBW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4804287430761</id>
+      <title>Oscar De La Renta Bella Blanca EDP W 100ml Boxed(AGP3)</title>
+      <s:price currency="CAD">40.50</s:price>
+      <s:sku>OSCBBW-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4804287430761</id>
+      <title>Set - Oscar De La Renta Bella Blanca EDP W 100ml Gift Set (with body lotion)(RET)</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>OSCDLRBBLW-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4804287430761</id>
+      <title>Set - Oscar De La Renta Bella Blanca EDP W 100ml Gift Set (with body lotion)(AGP1)</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>OSCDLRBBLW-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4804287430761</id>
+      <title>Set - Oscar De La Renta Bella Blanca EDP W 100ml Gift Set (with body lotion)(AGP2)</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>OSCDLRBBLW-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4804287430761</id>
+      <title>Set - Oscar De La Renta Bella Blanca EDP W 100ml Gift Set (with body lotion)(AGP3)</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>OSCDLRBBLW-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4792538923113</id>
+    <published>2020-09-13T17:41:24-04:00</published>
+    <updated>2020-09-13T17:41:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/narcisobleunoiredp-man"/>
+    <title>Narciso Rodriguez Bleu Noir EDP Edition For Man</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Narciso Rodriguez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/narcisobluenoiredpedition-man.jpg?v=1614725160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Narciso Rodriguez<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            28.00 - 78.00
+            <a href="https://acegiftsplus.ca/products/narcisobleunoiredp-man">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Narciso Rodriguez Bleu Noir EDP Edition | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>bigday12</s:tag>
+    <s:tag>boxingday</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>narcisco</s:tag>
+    <s:tag>newdad</s:tag>
+    <s:tag>newmom</s:tag>
+    <s:tag>oct</s:tag>
+    <s:tag>rodriguez</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4792538923113</id>
+      <title>Bleu Noir EDP EDITION by  Narciso Rodriguez M 100ml Boxed(RET)</title>
+      <s:price currency="CAD">74.00</s:price>
+      <s:sku>NARRBLNEDPM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4792538923113</id>
+      <title>Bleu Noir EDP EDITION by  Narciso Rodriguez M 100ml Boxed(AGP1)</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>NARRBLNEDPM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4792538923113</id>
+      <title>Bleu Noir EDP EDITION by  Narciso Rodriguez M 100ml Boxed(AGP2)</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>NARRBLNEDPM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4792538923113</id>
+      <title>Bleu Noir EDP EDITION by  Narciso Rodriguez M 100ml Boxed(AGP3)</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>NARRBLNEDPM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4792538923113</id>
+      <title>Set - Bleu Noir EDP EDITION by Narciso Rodriguez M 100ml Gift Set(RET)</title>
+      <s:price currency="CAD">78.00</s:price>
+      <s:sku>NARRBLNEDPM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4792538923113</id>
+      <title>Set - Bleu Noir EDP EDITION by Narciso Rodriguez M 100ml Gift Set(AGP1)</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>NARRBLNEDPM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4792538923113</id>
+      <title>Set - Bleu Noir EDP EDITION by Narciso Rodriguez M 100ml Gift Set(AGP2)</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>NARRBLNEDPM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4792538923113</id>
+      <title>Set - Bleu Noir EDP EDITION by Narciso Rodriguez M 100ml Gift Set(AGP3)</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>NARRBLNEDPM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4792538660969</id>
+    <published>2020-09-13T17:40:48-04:00</published>
+    <updated>2020-09-13T17:40:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/dolceminiset-woman"/>
+    <title>Dolce &amp; Gabbana 5x Miniature Variety Set For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Dolce &amp; Gabbana</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/DolceAndGabbanaSampler-woman.jpg?v=1601575005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dolce &amp; Gabbana<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            20.00 - 57.00
+            <a href="https://acegiftsplus.ca/products/dolceminiset-woman">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Dolce &amp; Gabbana 5x Miniature Variety Set | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4792538660969</id>
+      <title>Mini Set - Dolce &amp; Gabbana W  5 x 5ml Miniature Set (Light Blue, Light Blue Intense, The One EDP, The One EDT, Dolce)(RET)</title>
+      <s:price currency="CAD">57.00</s:price>
+      <s:sku>DGMINSW-5S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4792538660969</id>
+      <title>Mini Set - Dolce &amp; Gabbana W  5 x 5ml Miniature Set (Light Blue, Light Blue Intense, The One EDP, The One EDT, Dolce)(AGP1)</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>DGMINSW-5S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4792538660969</id>
+      <title>Mini Set - Dolce &amp; Gabbana W  5 x 5ml Miniature Set (Light Blue, Light Blue Intense, The One EDP, The One EDT, Dolce)(AGP2)</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>DGMINSW-5S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4792538660969</id>
+      <title>Mini Set - Dolce &amp; Gabbana W  5 x 5ml Miniature Set (Light Blue, Light Blue Intense, The One EDP, The One EDT, Dolce)(AGP3)</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>DGMINSW-5S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4774666436713</id>
+    <published>2020-08-16T14:19:55-04:00</published>
+    <updated>2020-08-16T14:19:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/rojadamorecollection-man"/>
+    <title>Roja D&apos;Amore Trio (3 x 50ml) Collection For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Roja Parfums</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/newfragimage_12282a9f-38bb-4d6c-b75f-af29a2014d9f.jpg?v=1597601996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roja Parfums<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            332.50 - 808.00
+            <a href="https://acegiftsplus.ca/products/rojadamorecollection-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Roja D'Amore Collection Man and Woman Perfume | Ace Gifts Plus - Toronto's top fragrance shop<br>
+ </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>gift set</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4774666436713</id>
+      <title>Roja D&apos;Amore Collection (Amore Mio, Ti Amo, Un Amore Eterno) W 3x50ml Set(RET)</title>
+      <s:price currency="CAD">808.00</s:price>
+      <s:sku>ROJAMCOLM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4774666436713</id>
+      <title>Roja D&apos;Amore Collection (Amore Mio, Ti Amo, Un Amore Eterno) W 3x50ml Set(AGP1)</title>
+      <s:price currency="CAD">599.00</s:price>
+      <s:sku>ROJAMCOLM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4774666436713</id>
+      <title>Roja D&apos;Amore Collection (Amore Mio, Ti Amo, Un Amore Eterno) W 3x50ml Set(AGP2)</title>
+      <s:price currency="CAD">575.00</s:price>
+      <s:sku>ROJAMCOLM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4774666436713</id>
+      <title>Roja D&apos;Amore Collection (Amore Mio, Ti Amo, Un Amore Eterno) W 3x50ml Set(AGP3)</title>
+      <s:price currency="CAD">332.50</s:price>
+      <s:sku>ROJAMCOLM-50B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4774640549993</id>
+    <published>2020-08-16T11:37:45-04:00</published>
+    <updated>2020-08-16T11:37:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/amouageminiaturescollectionmodern-woman"/>
+    <title>Amouage Miniatures Bottles Modern Collection (Lyric, Epic, Memoir, Honour, Beloved, Interlude) For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Amouage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/AmouageMiniatureModernCollectionWoman-man.jpg?v=1598975463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amouage<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            66.25 - 168.00
+            <a href="https://acegiftsplus.ca/products/amouageminiaturescollectionmodern-woman">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Amouage Miniatures Bottles Collection Modern Woman Perfume | Ace Gifts Plus - Toronto's top fragrance shop<br>
+ </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>gift set</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4774640549993</id>
+      <title>Set - Amouage Miniatures Bottles Collection Modern W (6 x 7.5ml) Gift Set(RET)</title>
+      <s:price currency="CAD">168.00</s:price>
+      <s:sku>AMOMODW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4774640549993</id>
+      <title>Set - Amouage Miniatures Bottles Collection Modern W (6 x 7.5ml) Gift Set(AGP1)</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku>AMOMODW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4774640549993</id>
+      <title>Set - Amouage Miniatures Bottles Collection Modern W (6 x 7.5ml) Gift Set(AGP2)</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>AMOMODW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4774640549993</id>
+      <title>Set - Amouage Miniatures Bottles Collection Modern W (6 x 7.5ml) Gift Set(AGP3)</title>
+      <s:price currency="CAD">66.25</s:price>
+      <s:sku>AMOMODW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4774640517225</id>
+    <published>2020-08-16T11:37:43-04:00</published>
+    <updated>2020-08-16T11:37:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/amouageminiaturescollectionclassic-woman"/>
+    <title>Amouage Miniatures Bottles Classic Collection (Gold, Dia, Ciel, Reflection, Jubilation, Beloved) For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Amouage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/AmouageMiniatureClassicCollectionWoman-man.jpg?v=1598975440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amouage<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            66.25 - 168.00
+            <a href="https://acegiftsplus.ca/products/amouageminiaturescollectionclassic-woman">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Amouage Miniatures Bottles Collection Classic Woman Perfume | Ace Gifts Plus - Toronto's top fragrance shop<br>
+ </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>gift set</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4774640517225</id>
+      <title>Set - Amouage Miniatures Bottles Collection Classic W (6 x 7.5ml) Set(RET)</title>
+      <s:price currency="CAD">168.00</s:price>
+      <s:sku>AMOCLAW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4774640517225</id>
+      <title>Set - Amouage Miniatures Bottles Collection Classic W (6 x 7.5ml) Set(AGP1)</title>
+      <s:price currency="CAD">129.00</s:price>
+      <s:sku>AMOCLAW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4774640517225</id>
+      <title>Set - Amouage Miniatures Bottles Collection Classic W (6 x 7.5ml) Set(AGP2)</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>AMOCLAW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4774640517225</id>
+      <title>Set - Amouage Miniatures Bottles Collection Classic W (6 x 7.5ml) Set(AGP3)</title>
+      <s:price currency="CAD">66.25</s:price>
+      <s:sku>AMOCLAW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4763235811433</id>
+    <published>2020-07-29T17:23:33-04:00</published>
+    <updated>2020-07-29T17:23:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/zadigvoltairegirlscandoanything-woman"/>
+    <title>Zadig &amp; Voltaire Girls Can Do Anything For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Zadig and Voltaire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/GirlsCanDoAnythingZadig_Voltaire50mlSETw100mlBodyLotion-man.jpg?v=1619467390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zadig and Voltaire<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            27.20 - 68.95
+            <a href="https://acegiftsplus.ca/products/zadigvoltairegirlscandoanything-woman">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Zadig &amp; Voltaire Girls Can Do Anything | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4763235811433</id>
+      <title>Set - Zadig &amp; Voltaire Girls Can Do Anything EDP W 50ml (w/ scented body lotion) Set(RET)</title>
+      <s:price currency="CAD">68.95</s:price>
+      <s:sku>ZADVGICDOANYW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4763235811433</id>
+      <title>Set - Zadig &amp; Voltaire Girls Can Do Anything EDP W 50ml (w/ scented body lotion) Set(AGP1)</title>
+      <s:price currency="CAD">52.00</s:price>
+      <s:sku>ZADVGICDOANYW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4763235811433</id>
+      <title>Set - Zadig &amp; Voltaire Girls Can Do Anything EDP W 50ml (w/ scented body lotion) Set(AGP2)</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>ZADVGICDOANYW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4763235811433</id>
+      <title>Set - Zadig &amp; Voltaire Girls Can Do Anything EDP W 50ml (w/ scented body lotion) Set(AGP3)</title>
+      <s:price currency="CAD">27.20</s:price>
+      <s:sku>ZADVGICDOANYW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4763235745897</id>
+    <published>2020-07-29T17:23:31-04:00</published>
+    <updated>2020-07-29T17:23:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/zadigvoltairecansayanything-woman"/>
+    <title>Zadig &amp; Voltaire Can Say Anything For Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Zadig and Voltaire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/ZodigAndVoltaireGirlsCanSayAnythingSet-man.jpg?v=1619467389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zadig and Voltaire<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            27.20 - 66.95
+            <a href="https://acegiftsplus.ca/products/zadigvoltairecansayanything-woman">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Zadig &amp; Voltaire Can Say Anything | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4763235745897</id>
+      <title>Set - Zadig &amp; Voltaire Girls Can Say Anything EDP W 50ml Set (w/ scented body lotion)(RET)</title>
+      <s:price currency="CAD">66.95</s:price>
+      <s:sku>ZADVGCSAYANYW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4763235745897</id>
+      <title>Set - Zadig &amp; Voltaire Girls Can Say Anything EDP W 50ml Set (w/ scented body lotion)(AGP1)</title>
+      <s:price currency="CAD">52.00</s:price>
+      <s:sku>ZADVGCSAYANYW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4763235745897</id>
+      <title>Set - Zadig &amp; Voltaire Girls Can Say Anything EDP W 50ml Set (w/ scented body lotion)(AGP2)</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>ZADVGCSAYANYW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4763235745897</id>
+      <title>Set - Zadig &amp; Voltaire Girls Can Say Anything EDP W 50ml Set (w/ scented body lotion)(AGP3)</title>
+      <s:price currency="CAD">27.20</s:price>
+      <s:sku>ZADVGCSAYANYW-50S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4763231158377</id>
+    <published>2020-07-29T17:20:54-04:00</published>
+    <updated>2020-07-29T17:20:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/joopwow-man"/>
+    <title>Joop Wow For Man</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Coty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/JoopWowSet60ml-man.jpg?v=1598986231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coty<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            15.24 - 57.00
+            <a href="https://acegiftsplus.ca/products/joopwow-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>COnline warehouse sale. Guaranteed best price in Canada for Joop Wow Man Cologne | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet<br>
+ </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4763231158377</id>
+      <title>Set - Joop Wow EDT M 60ml Set (w/ 75 ml Shower Gel)(RET)</title>
+      <s:price currency="CAD">57.00</s:price>
+      <s:sku>JOOPWOWW-60S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4763231158377</id>
+      <title>Set - Joop Wow EDT M 60ml Set (w/ 75 ml Shower Gel)(AGP1)</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>JOOPWOWW-60S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4763231158377</id>
+      <title>Set - Joop Wow EDT M 60ml Set (w/ 75 ml Shower Gel)(AGP2)</title>
+      <s:price currency="CAD">28.50</s:price>
+      <s:sku>JOOPWOWW-60S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4763231158377</id>
+      <title>Set - Joop Wow EDT M 60ml Set (w/ 75 ml Shower Gel)(AGP3)</title>
+      <s:price currency="CAD">15.24</s:price>
+      <s:sku>JOOPWOWW-60S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4763228799081</id>
+    <published>2020-07-29T17:19:42-04:00</published>
+    <updated>2020-07-29T17:19:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/discoverysetbottegavenetaparcopalladianoiiiiiiivvvi-man"/>
+    <title>Bottega Veneta Parco Palladiano (I,II,III,IV,V,VI) For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Bottega Veneta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/newfragimage_689eb14e-d46b-4404-8611-a0dfb304e11b.jpg?v=1596057583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottega Veneta<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            65.00 - 138.95
+            <a href="https://acegiftsplus.ca/products/discoverysetbottegavenetaparcopalladianoiiiiiiivvvi-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Bottega Veneta Parco Palladiano (I,II,III,IV,V,VI) Man and Woman Perfume | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet<br>
+ </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4763228799081</id>
+      <title>Set - Bottega Veneta Parco Palladiano (I,II,III,IV,V,VI) 10ml x 6 Discovery Kit(RET)</title>
+      <s:price currency="CAD">138.95</s:price>
+      <s:sku>BOTVENPPM-60S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4763228799081</id>
+      <title>Set - Bottega Veneta Parco Palladiano (I,II,III,IV,V,VI) 10ml x 6 Discovery Kit(AGP1)</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>BOTVENPPM-60S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4763228799081</id>
+      <title>Set - Bottega Veneta Parco Palladiano (I,II,III,IV,V,VI) 10ml x 6 Discovery Kit(AGP2)</title>
+      <s:price currency="CAD">112.00</s:price>
+      <s:sku>BOTVENPPM-60S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4763228799081</id>
+      <title>Set - Bottega Veneta Parco Palladiano (I,II,III,IV,V,VI) 10ml x 6 Discovery Kit(AGP3)</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>BOTVENPPM-60S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/753896423522</id>
+    <published>2020-07-23T16:13:43-04:00</published>
+    <updated>2020-07-23T16:13:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/rojaelysiumparfumhommecologne-man"/>
+    <title>Roja Elysium Parfum Pour Homme Cologne Edition For Man</title>
+    <s:type>Boxed Cologne</s:type>
+    <s:vendor>Roja Parfums</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/rojaelysiumcologne-man.jpg?v=1528991659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roja Parfums<br>
+        <strong>Type: </strong>Boxed Cologne<br>
+        <strong>Price: </strong>
+            65.25 - 308.00
+            <a href="https://acegiftsplus.ca/products/rojaelysiumparfumhommecologne-man">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Roja Elysium Parfum Pour Homme Cologne Mens Cologne |Ace Gifts Plus - Wholesale prices in Toronto</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>tester</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/753896423522</id>
+      <title>Roja Elysium Parfum Pour Homme Cologne M 100ml Boxed(AGP3)</title>
+      <s:price currency="CAD">130.50</s:price>
+      <s:sku>ROJDEPPCHM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/753896423522</id>
+      <title>Tester - Roja Elysium Parfum Pour Homme COLOGNE M 100ml Tester(RET)</title>
+      <s:price currency="CAD">228.00</s:price>
+      <s:sku>ROJAELYSCOLM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/753896423522</id>
+      <title>Tester - Roja Elysium Parfum Pour Homme COLOGNE M 100ml Tester(AGP1)</title>
+      <s:price currency="CAD">109.00</s:price>
+      <s:sku>ROJAELYSCOLM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/753896423522</id>
+      <title>Tester - Roja Elysium Parfum Pour Homme COLOGNE M 100ml Tester(AGP2)</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku>ROJAELYSCOLM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/753896423522</id>
+      <title>Tester - Roja Elysium Parfum Pour Homme COLOGNE M 100ml Tester(AGP3)</title>
+      <s:price currency="CAD">65.25</s:price>
+      <s:sku>ROJAELYSCOLM-100T</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/753896423522</id>
+      <title>Roja Elysium Parfum Pour Homme Cologne M 100ml Boxed(RET)</title>
+      <s:price currency="CAD">308.00</s:price>
+      <s:sku>ROJDEPPCHM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/753896423522</id>
+      <title>Roja Elysium Parfum Pour Homme Cologne M 100ml Boxed(AGP1)</title>
+      <s:price currency="CAD">225.00</s:price>
+      <s:sku>ROJDEPPCHM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/753896423522</id>
+      <title>Roja Elysium Parfum Pour Homme Cologne M 100ml Boxed(AGP2)</title>
+      <s:price currency="CAD">218.00</s:price>
+      <s:sku>ROJDEPPCHM-100B</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://acegiftsplus.ca/products/4741226856553</id>
+    <published>2020-07-15T16:32:42-04:00</published>
+    <updated>2020-07-15T16:32:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://acegiftsplus.ca/products/pharrellwilliamsgirl-man"/>
+    <title>Pharrell Williams Girl For Man/Woman</title>
+    <s:type>Boxed Perfume</s:type>
+    <s:vendor>Pharrell Williams</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0611/4257/products/PharrelWilliamGirl100-man.jpg?v=1595352991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pharrell Williams<br>
+        <strong>Type: </strong>Boxed Perfume<br>
+        <strong>Price: </strong>
+            7.00 - 30.95
+            <a href="https://acegiftsplus.ca/products/pharrellwilliamsgirl-man">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Online warehouse sale. Guaranteed best price in Canada for Pharrell Williams Girl Man and Woman Perfume | Ace Gifts Plus is Toronto's Wholesale Fragrance Outlet<br>
+ </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>b2s</s:tag>
+    <s:tag>boxed</s:tag>
+    <s:tag>cologne</s:tag>
+    <s:tag>giftset</s:tag>
+    <s:tag>Mens Fragrance</s:tag>
+    <s:tag>rare</s:tag>
+    <s:tag>Woman Fragrance</s:tag>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4741226856553</id>
+      <title>Set - Pharrell Williams Girl EDP M 100ml Slightly Damaged Set(RET)</title>
+      <s:price currency="CAD">30.95</s:price>
+      <s:sku>PHAWGIRM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4741226856553</id>
+      <title>Set - Pharrell Williams Girl EDP M 100ml Slightly Damaged Set(AGP1)</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>PHAWGIRM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4741226856553</id>
+      <title>Set - Pharrell Williams Girl EDP M 100ml Slightly Damaged Set(AGP2)</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>PHAWGIRM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://acegiftsplus.ca/products/4741226856553</id>
+      <title>Set - Pharrell Williams Girl EDP M 100ml Slightly Damaged Set(AGP3)</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>PHAWGIRM-100S</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>
